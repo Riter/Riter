@@ -2,8 +2,8 @@
 
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
-- Currently 3-year student CS student in MAI  
-- Reach me on [telegram](https://t.me/ilyaiv4)
+-  Currently 3-year student CS student in MAI
+-  Reach me on [telegram](https://t.me/ilyaiv4)
 
 <!--
 **Riter/Riter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
