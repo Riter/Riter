@@ -4,7 +4,7 @@
 
 - 🔭 Currently 3-year student CS student in MAI<br>
 - 📫 Reach me on [telegram](https://t.me/ilyaiv4)
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="20" height="20" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="40" height="40" />
 
 <!--
 **Riter/Riter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
