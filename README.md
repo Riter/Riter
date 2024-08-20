@@ -1,4 +1,5 @@
 ## Hi there 👋
+![github-header-image](https://github.com/user-attachments/assets/51d20e35-196a-4918-aa28-32e62e994068)
 
 <!--
 **Riter/Riter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
