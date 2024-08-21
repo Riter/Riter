@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Currently 3-year student CS student in MAI<br>
+- 🔭 Currently 3-year student CS student in Moscow Aviation Institute<br>
 - 📫 Reach me on [telegram](https://t.me/ilyaiv4)
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="40" height="40" />
 
